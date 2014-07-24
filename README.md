@@ -1,4 +1,4 @@
-hello-appengine
-===============
+appengine-skeleton
+=============================
 
-Google appengine sample application
+This is a generated application from the appengine-skeleton archetype.
